@@ -9,9 +9,10 @@ E.g.
 
 2. 'What is your most loved place' is same questions as 'Which place do you love the most?' 
 
-Classification Problem
+# Classification Problem
 
-Steps
+Steps:
+
 1. cleaning irrelevant questions by checking question1 and question2 length
 2. Basic features like length, Jackard similarity, Levenshtein distance, different ratios ,number of unique nouns etc.
 3. Specific features like skewness and kurtosis, presence of specific words like :'again, $, differ, without, between, %'
