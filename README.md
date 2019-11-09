@@ -6,6 +6,7 @@ Ouput: Are they asking same questions or not?
 
 E.g.
 1.'What is procedure of conducting election?' is different question than 'What is procedure of conducting US election?' . However, they have high similarity.
+
 2. 'What is your most loved place' is same questions as 'Which place do you love the most?' 
 
 Classification Problem
